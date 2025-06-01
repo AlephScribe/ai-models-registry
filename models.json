@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-01-01T12:00:00Z",
+  "models": [
+    {
+      "model_id": "openai-gpt4o-mini",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "display_name": "GPT-4o Mini",
+      "description": "Fast and efficient OpenAI model",
+      "endpoint": null,
+      "temperature": 0.0,
+      "max_tokens": 16000,
+      "cost_per_1k_tokens": 0.00015,
+      "release_date": "2024-07-18",
+      "capabilities": ["text"],
+      "recommended": true,
+      "status": "active"
+    },
+    {
+      "model_id": "anthropic-claude-3-5-sonnet",
+      "provider": "anthropic",
+      "model": "claude-3-5-sonnet-20241022",
+      "display_name": "Claude 3.5 Sonnet",
+      "description": "Latest Claude model with improved reasoning",
+      "endpoint": null,
+      "temperature": 0.0,
+      "max_tokens": 8192,
+      "cost_per_1k_tokens": 0.003,
+      "release_date": "2024-10-22",
+      "capabilities": ["text", "vision"],
+      "recommended": true,
+      "status": "active"
+    },
+    {
+      "model_id": "openai-gpt4-turbo",
+      "provider": "openai", 
+      "model": "gpt-4-turbo-2024-04-09",
+      "display_name": "GPT-4 Turbo",
+      "description": "Latest GPT-4 with improved efficiency",
+      "endpoint": null,
+      "temperature": 0.0,
+      "max_tokens": 4096,
+      "cost_per_1k_tokens": 0.01,
+      "release_date": "2024-04-09",
+      "capabilities": ["text", "vision"],
+      "recommended": false,
+      "status": "active"
+    }
+  ]
+}
