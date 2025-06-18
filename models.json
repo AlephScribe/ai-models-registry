@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "last_updated": "2025-06-18T21:45:00Z",
+  "version": "1.4",
+  "last_updated": "2025-06-18T22:00:00Z",
   "model_filter": {
     "included_models": [
       "gpt-4.1",
@@ -21,15 +21,13 @@
       "gemini-1.5-pro-latest",
       "gemini-1.5-flash-latest",
       "gemini-2.0-flash",
-      "mistral-large-latest",
-      "mistral-small-latest",
+      "mistral/mistral-small-latest",
+      "mistral/mistral-large-latest", 
       "command-r-plus",
       "command-r",
-      "llama3-70b-8192",
-      "llama3-8b-8192",
-      "llama-3.1-70b-versatile",
-      "llama-3.1-8b-instant",
-      "mixtral-8x7b-32768"
+      "groq/llama-3.1-70b-versatile",
+      "groq/llama-3.1-8b-instant",
+      "groq/mixtral-8x7b-32768"
     ],
     "excluded_models": [],
     "excluded_keywords": [
@@ -50,6 +48,7 @@
       "vertex_ai-language-models",
       "mistral", 
       "cohere",
+      "cohere_chat",
       "groq"
     ],
     "max_input_cost_per_1k_tokens": 0.05,
