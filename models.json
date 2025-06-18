@@ -50,7 +50,7 @@
       "cohere_chat",
       "groq"
     ],
-    "max_input_cost_per_1k_tokens": 0.05,
-    "min_max_tokens": 1000
+    "max_input_cost_per_1k_tokens": 0.08,
+    "min_max_tokens": 100000
   }
 }
