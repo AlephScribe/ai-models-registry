@@ -51,6 +51,6 @@
       "groq"
     ],
     "max_input_cost_per_1k_tokens": 0.08,
-    "min_max_tokens": 100000
+    "min_max_tokens": 1000
   }
 }
