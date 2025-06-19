@@ -66,8 +66,6 @@
       "vertex_ai",
       "vertex_ai-language-models", 
       "mistral",
-      "cohere",
-      "cohere_chat",
       "groq"
     ],
     "max_input_cost_per_1k_tokens": 0.05,
