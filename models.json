@@ -25,7 +25,8 @@
       "0613",
       "0314",
       "pixtral",
-      "preview"
+      "preview",
+      "Preview"
     ],
     "excluded_providers": [
       "azure",
