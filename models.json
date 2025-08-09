@@ -5,6 +5,7 @@
     "included_models": [
       "gpt-5",
       "gpt-5-mini",
+      "HALLO",
       "gpt-5-nano",
       "gpt-4.1",
       "gpt-4.1-mini2",
