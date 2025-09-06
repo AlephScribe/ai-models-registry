@@ -36,6 +36,7 @@
       "claude-instant-1",
       "claude-2",
       "gpt-4o-mini-realtime-preview-2024-12-17"
+      
     ],
     "excluded_keywords": [
       "embedding",
@@ -114,6 +115,6 @@
       "google": "google"
     },
     "max_input_cost_per_1k_tokens": 0.05,
-    "min_max_tokens": 5000
+    "min_max_tokens": 10000
   }
 }
