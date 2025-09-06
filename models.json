@@ -58,6 +58,7 @@
     ],
     "excluded_providers": [
       "azure",
+      "google",
       "azure_ai", 
       "bedrock",
       "bedrock_converse",
@@ -90,16 +91,12 @@
     "preferred_providers": [
       "openai",
       "anthropic",
-      "vertex_ai",
-      "vertex_ai-language-models", 
       "mistral",
       "groq"
     ],
     "provider_mappings": {
       "openai": "openai",
       "anthropic": "anthropic",
-      "vertex_ai": "google",
-      "vertex_ai-language-models": "google",
       "mistral": "mistral",
       "cohere": "cohere",
       "groq": "groq",
