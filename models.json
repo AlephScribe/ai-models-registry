@@ -27,7 +27,6 @@
       "mixtral-8x22b",
       "codestral-latest"
     ],
-  "model_filter": {,
     "model_comments": {
       "gpt-4.1": "Most advanced OpenAI model for complex document analysis and detailed data extraction",
       "gpt-4.1-mini": "Excellent for complex documents to extract datapoints and tables",
