@@ -113,6 +113,6 @@
     },
     "max_input_cost_per_1k_tokens": 0.05,
     "min_max_tokens": 10000,
-    "vision-support-required": "True",
+    "vision-support-required": "True"
   }
 }
