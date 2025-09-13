@@ -4,14 +4,26 @@
   "update_message": "Added Chatgpt 5 models",
   "model_filter": {
     "included_models": [
-      
+      "gpt-5",
+      "gpt-5-mini",
+      "gpt-5-nano",
+      "gpt-4.1",
+      "gpt-4.1-mini",
+      "gpt-4.1-nano",
+      "claude-opus-4-1-20250805",
+      "claude-opus-4-20250514",
+      "claude-sonnet-4-20250514",
+      "claude-sonnet-3-7-20250219",
+      "claude-haiku-3-5-20241024",
+      "gemini-2.5-pro"
     ],
     "model_comments": {
       "gpt-4.1": "Most advanced OpenAI model for complex document analysis and detailed data extraction",
       "gpt-4.1-mini": "Excellent for complex documents to extract datapoints and tables",
       "gpt-4.1-nano": "Perfect for small documents and simple datapoints with exact copy-paste accuracy",
-      "o1": "Advanced reasoning model ideal for complex structured data extraction",
-      "o1-mini": "Balanced reasoning model for moderate complexity extraction tasks",
+      "gpt-5": "Most advanced OpenAI model for complex document analysis and detailed data extraction",
+      "gpt-5-mini": "Excellent for complex documents to extract datapoints and tables",
+      "gpt-5-nano": "Perfect for small documents and simple datapoints with exact copy-paste accuracy",
       "claude-opus-4-20250514": "Premium Anthropic model for highest quality extraction and analysis",
       "gemini-2.5-pro": "Google's premium model for comprehensive document analysis",
       "gemini-2.5-flash": "Fast Google model for quick document processing",
@@ -62,7 +74,6 @@
     ],
     "excluded_providers": [
       "azure",
-      "google",
       "azure_ai", 
       "bedrock",
       "bedrock_converse",
