@@ -4,18 +4,7 @@
   "update_message": "Added Chatgpt 5 models",
   "model_filter": {
     "included_models": [
-      "gpt-5",
-      "gpt-5-mini",
-      "gpt-5-nano",
-      "gpt-4.1",
-      "gpt-4.1-mini",
-      "gpt-4.1-nano",
-      "claude-opus-4-1-20250805",
-      "claude-opus-4-20250514",
-      "claude-sonnet-4-20250514",
-      "claude-sonnet-3-7-20250219",
-      "claude-haiku-3-5-20241024",
-      "gemini-2.5-pro"
+      
     ],
     "model_comments": {
       "gpt-4.1": "Most advanced OpenAI model for complex document analysis and detailed data extraction",
@@ -48,7 +37,6 @@
       "claude-instant-1",
       "claude-2",
       "gpt-4o-mini-realtime-preview-2024-12-17"
-      
     ],
     "excluded_keywords": [
       "embedding",
